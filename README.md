@@ -1,3 +1,3 @@
 # mssql-student-exercises
 
-MS SQL exercises for student
+MS SQL exercises for students
